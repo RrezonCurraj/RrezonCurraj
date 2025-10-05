@@ -7,7 +7,7 @@
 ☀️ Always curious, always learning <br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RrezonCurraj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![RrezonCurraj GitHub stats](https://github-readme-stats.vercel.app/api?username=RrezonCurraj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
