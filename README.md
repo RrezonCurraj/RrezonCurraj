@@ -2,7 +2,7 @@
 👨🏻‍💻 Computer Science graduate sharing my coding journey and creative projects <br/>
 👨🏻‍🎓 Studied Computer Science at the University of Prizren, Kosovo <br/>
 🎨 I enjoy blending tech and creativity - from web dev to design & branding <br/>
-🌍 Big dreamer: aiming for internships in Germany <br/>
+🌍 Chasing new horizons — Germany’s tech scene is my next stop <br/>
 💭 Currently diving deep into React and Next.js <br/>
 ☀️ Always curious, always learning <br/>
 
